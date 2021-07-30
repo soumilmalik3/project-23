@@ -46,7 +46,7 @@ function setup() {
 
 	box1 = new Box(300,600,10,100);
 	box2 = new Box(500,600,10,100);
-	box3 = new Box(400,610,200,10);
+	box3 = new Box(400,650,200,10);
 
   
 }
